@@ -59,7 +59,21 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MD-Saiful-Islam-7892&repo=cpp-program&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+---
 
+## 🎯 Current Focus
+
+- 📚 Learning **Data Structures & Algorithms**
+- 💻 Solving **C++ problems daily**
+- 🚀 Building **programming fundamentals**
+- 📝 Documenting my **learning journey** on GitHub
+
+## 📈 My Learning Path
+
+- ✅ C++ Basics
+- 🔄 Data Structures (Stack, Queue, Linked List)
+- ⏳ Algorithms (Sorting, Searching, Recursion)
+- ⏳ Mini Projects
 ---
 
 ## 📫 Connect with Me
