@@ -52,13 +52,17 @@
 
 ---
 
+## 🎓 Education
+
+- 🎓 Pursuing **BSc** in **Computer Science Engineering** 🇷🇺
+- 🏠 Originally from **Bangladesh** 🇧🇩
+
+---
+
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MD-Saiful-Islam-7892/cpp-program">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MD-Saiful-Islam-7892&repo=cpp-program&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+- 🚀 **[cpp-program](https://github.com/MD-Saiful-Islam-7892/cpp-program)** — My C++ programming practice repository
+
 ---
 
 ## 🎯 Current Focus
@@ -68,12 +72,21 @@
 - 🚀 Building **programming fundamentals**
 - 📝 Documenting my **learning journey** on GitHub
 
+---
+
 ## 📈 My Learning Path
 
 - ✅ C++ Basics
 - 🔄 Data Structures (Stack, Queue, Linked List)
 - ⏳ Algorithms (Sorting, Searching, Recursion)
 - ⏳ Mini Projects
+
+---
+
+## 🎯 Career Goal
+
+Aspiring **Software Engineer** with strong **C++** fundamentals.
+
 ---
 
 ## 📫 Connect with Me
