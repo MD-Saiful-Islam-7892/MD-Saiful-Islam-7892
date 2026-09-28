@@ -54,7 +54,7 @@
 
 ## 🎓 Education
 
-- 🎓 Pursuing **BSc** in **Computer Science Engineering 🇷🇺** 🇷🇺
+- 🎓 Pursuing **BSc** in **Computer Science Engineering** 🇷🇺
 - 🏠 Originally from **Bangladesh** 🇧🇩
 
 ---
